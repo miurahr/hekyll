@@ -2,7 +2,7 @@ pygments: true
 permalink: "/:title"
 
 ## Hekyll Configuration ##
-simple-slideshow:  true 
+simple-slideshow:  false
 # true/false -- when enabled, slide positioning is ignored and a simple cross-fade will be used to transition between slides.
 
 overview: true  
